@@ -1,6 +1,8 @@
 
 
 body{
+  background-color: #F2F7F5;
+
 
 }
 
@@ -31,6 +33,7 @@ h1{
   margin-top: -0.8%;
   margin-left: 1%;
   font-size: 20px;
+  font-family: Times;
 }
 
 img{
@@ -56,7 +59,7 @@ img{
  }
 
  li{
-   margin-top: 1.8%;
+   margin-top: 2.2%;
    margin-left: -5%;
    font-size: 12.5px;
    list-style-type: none;
